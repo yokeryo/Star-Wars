@@ -8,20 +8,20 @@
   4. How did he get into science fiction
 
 ##Character Profiles
-**About Anakin Skywalker**
+1. **About Anakin Skywalker**
   1. Actor bio
-**About Luke Skywalker**
+2. **About Luke Skywalker**
   1. Actor bio
-**About Han Solo**
+3. **About Han Solo**
   1. Actor bio
-**About Watto**
+4. **About Watto**
   1. Actor bio
 
 ##Vehicle Abilities
-**A-Wing Fighter**
-**AT-AT Walkers**
-**AT-ST Walkers**
-**ETA-2 Jedi Starfighter**
-**Darth Vader's Tie Fighter**
-**Delta-7 Jedi Starfighter**
-**General Grievous’ Tsmeu-6 Wheel Bike**
+1. **A-Wing Fighter**
+2. **AT-AT Walkers**
+3. **AT-ST Walkers**
+4. **ETA-2 Jedi Starfighter**
+5. **Darth Vader's Tie Fighter**
+6. **Delta-7 Jedi Starfighter**
+7. **General Grievous’ Tsmeu-6 Wheel Bike**
