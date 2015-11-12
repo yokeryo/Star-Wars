@@ -37,13 +37,13 @@
   2. 4 subheading, 1 for each topic
   3. 4 paragraphs, 1 for each topic
   4. Picture for background
-3. **Character Profiles**
+3. **Character Profiles - character.html**
   1. Heading
   2. 4 subheading, 1 for each character
   3. 4 paragraphs, 1 for each subheading
   4. Picture for background
   5. 2 pictures for each character - one for the actor in real life on one side of the screen and one for the actor as the character on the other side of the screen. 
-4. **Vehicle Abilities**
+4. **Vehicle Abilities - vehicle.html**
   1. Heading
   2. 7 subheading, 1 for each vehicle
   3. 7 paragraphs, 1 for each subheading
