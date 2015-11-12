@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/yokeryo/Star-Wars.png?label=ready&title=Ready)](https://waffle.io/yokeryo/Star-Wars)
 # Star Wars
 
 ##The Star Wars Creator
