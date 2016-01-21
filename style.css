@@ -1,0 +1,45 @@
+/*
+    Document   : style.css
+    Created on : 2015-12-17 10:20 PM
+    Author     : HowAreYou
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+.container{
+     background:url("maxresdefault.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+   
+    
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+   
+    
+    
+    
+}
+body{
+
+/*     background:url("maxresdefault.jpg");
+    background-repeat:no-repeat;
+    background-size:100%; */
+    background-color:#000000;
+/*     background-size:cover;
+    background-position:center center;
+    background-position:fixed; */
+    color:#FFFFFF;
+    
+}
+.row{
+    background-color:#000000;
+    opacity:0.7;
+}
+.jumbotron{
+    background-color:transparent;
+}
